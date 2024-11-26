@@ -25,7 +25,7 @@ model = tf.saved_model.load(model_dir)
 st.write("Model loaded successfully!")
 
 # Class labels
-class_labels = ['sheep', 'dog', 'cat', 'elephant', 'butterfly', 'horse', 'spider', 'chicken', 'cow', 'squirrel']
+class_labels = ['butterfly', 'cats', 'cow', 'dogs', 'elephant', 'horse', 'monkey', 'sheep', 'spider', 'squirrel']
 
 # Fungsi untuk preprocessing gambar
 def preprocess_image(image):
