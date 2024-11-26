@@ -7,7 +7,7 @@ import os
 import zipfile
 
 # File dan direktori model
-model_url = "https://drive.google.com/file/d/15sVxzeibKRZxuttAfO6lqfjbLDGfRbS6/view?usp=sharing"  
+model_url = "https://drive.google.com/uc?id=15sVxzeibKRZxuttAfO6lqfjbLDGfRbS6"  
 model_zip_path = "animals_model.zip"
 model_dir = "saved_model/animals_model_1"
 
